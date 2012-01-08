@@ -2,13 +2,18 @@
 - init
 
 0.1.1
-- Исправлен размер.
-- Теперь иконки лучше выгледят на белом фоне
-- Инонка "Я" выполнена в фирменном стиле. (Vorp)
+- [fix] size
+- [fix] better on a white background
+- [fix] icon "Yandex" in the corporate style (Vorp)
 
 0.1.2
-- Добавлены дополнительные варианты для Facebook и Twitter
+- [add] additional icon Facebook and Twitter
 
 0.1.3
-- Исправил Facebook (beavis_1)
-- Добавил Google plus [WIP]
+- [fix] Facebook (beavis_1)
+- [add] Google plus [WIP]
+
+0.1.3.1
+- [add] GMail [WIP]
+- [add] sms [WIP]
+- [add] Wikipedia [WIP]
