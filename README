@@ -66,3 +66,10 @@
 0.1.4.3
 - [add] alt2 twitter
 - [add] alt3 twitter
+
+0.1.4.4
+- [add] flickr
+- [add] lastfm
+- [add] alt lastfm
+- [add] openid
+- [add] picasa
