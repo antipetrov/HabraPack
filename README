@@ -74,3 +74,37 @@
 - [add] openid
 - [add] picasa
 - [add] 9gag.com
+
+0.2
+- move all old icons to folder "old"
+- [add] two folders - with/without shadow
+- [add] behance
+- [add] behance_2
+- [rename/update] sms to chat
+- [add] dribbble
+- [update] facebook
+- [update] github
+- [update] github_2
+- [update] google_plus
+- [update] habrehabr
+- [add] instagram
+- [update] linkedin
+- [add] livejournal
+- [update] mail
+- [add] mail_2
+- [add] moi_krug
+- [update] odnoklassniki
+- [add] phone
+- [add] pinterest
+- [update] rss
+- [update] skype
+- [update] tumblr
+- [update] twitter
+- [add] vimeo
+- [update] vk
+- [update] vk_2
+- [update] yandex
+- [update] yandex_2
+- [update] youtube
+- [update] youtube_2
+- [update] youtube_3
